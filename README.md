@@ -49,15 +49,19 @@ _Updates or suggestions please contact [Michael A. Brooks] or make a contributio
 
 User process screenshots:
 
-![alt text](/resources/images/IMG_9783.jpg)
+Food Delivery Group Project:
 
-![alt text](/resources/images/IMG_9785.jpg)
+![alt text](/resources/images/daygoals.jpg)
 
-![alt text](/resources/images/IMG_9785.jpg)
+![alt text](/resources/images/groupdraft.jpg)
 
-![hustlin_erd](FoodDelivery.pdf)
+![alt text](/resources/images/FoodDelivery-1.jpg)
 
-![alt text](/resources/images/IMG_9792.jpg)
+![alt text](/resources/images/FoodDelivery-2.jpg)
+
+Capstone Project:
+
+![alt text](/resources/images/capstonedraft.jpg)
 
 ### License
 
