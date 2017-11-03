@@ -49,11 +49,9 @@ _Updates or suggestions please contact [Michael A. Brooks] or make a contributio
 
 User process screenshots:
 
-![alt text](/resources/images/tracker.png)
+![alt text](/resources/images/IMG_9783.jpg)
 
-![alt text](/resources/images/newanimal.png)
-
-![alt text](/resources/images/editanimal.png)
+![alt text](/resources/images/IMG_9785.jpg)
 
 ### License
 
