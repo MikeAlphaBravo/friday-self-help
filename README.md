@@ -41,11 +41,7 @@ _Updates or suggestions please contact [Michael A. Brooks] or make a contributio
 
 * [Atom](https://atom.io/) - Text editor
 
-## Future Features
-
-* Sort by determination
-* Style with GoodWill
-* Build with life skills
+## The Journey
 
 User process screenshots:
 
@@ -62,6 +58,22 @@ Food Delivery Group Project:
 Capstone Project:
 
 ![alt text](/resources/images/capstonedraft.jpg)
+
+Tried to work through some of this but really just got bogged down in the details viewable in the atom practice.js file
+![alt text](/resources/images/10wbsess.png)
+
+
+I continued on practice questions in the practice.js file attached.
+
+## Future Features
+
+* Sort by determination
+* Style with GoodWill
+* Build with life skills
+
+Future Practice:
+
+![alt text](/resources/images/futurepractice.png)
 
 ### License
 
