@@ -53,6 +53,12 @@ User process screenshots:
 
 ![alt text](/resources/images/IMG_9785.jpg)
 
+![alt text](/resources/images/IMG_9785.jpg)
+
+![hustlin_erd](FoodDelivery.pdf)
+
+![alt text](/resources/images/IMG_9792.jpg)
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
