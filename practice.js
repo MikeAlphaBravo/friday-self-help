@@ -120,3 +120,26 @@ test();
 
 undefined //a is not defined until later in the function
 2 //but not becuase foo is 2 but because at the end of the function we return 2
+
+________________________________________________________
+
+var fullname = 'John Doe';
+var obj = {
+   fullname: 'Colin Ihrig',
+   prop: {
+      fullname: 'Aurelio De Rosa',
+      getFullname: function() {
+         return this.fullname;
+      }
+   }
+};
+
+console.log(obj.prop.getFullname());
+
+var test = obj.prop.getFullname;
+
+console.log(test());
+
+Answer:
+Aurelio De Rosa //this exists within the function called upon
+John Doe //test cannot collect the function var definitions outside of the function so it only knows fullname as the first var defined.
